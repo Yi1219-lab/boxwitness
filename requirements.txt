@@ -1,0 +1,4 @@
+ultralytics>=8.3
+opencv-python>=4.10,<5
+qrcode[pil]>=7.4
+lap>=0.5.12
